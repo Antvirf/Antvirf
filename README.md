@@ -14,6 +14,7 @@
 - Spectre Fenix ([repository](https://github.com/Antvirf/spectrefenix), [Garmin ConnectIQ download](https://apps.garmin.com/en-US/apps/904f5de7-2dc6-456f-9f5d-fc81dd47c53e))
 - Explorer ([repository](https://github.com/Antvirf/garmin-explorer-watch-face), [Garmin ConnectIQ download](https://apps.garmin.com/en-US/apps/4e26376f-806a-4ce7-8bd1-07ad82e52540))
 - Matter Metrics ([repository](https://github.com/Antvirf/garmin-watch-face-guide), [Garmin ConnectIQ download](https://apps.garmin.com/en-US/apps/38b1b25e-3cf7-4993-9fd9-7ced64eb3564), [blog post](https://aviitala.com/posts/garmin-watchface-tutorial/))
+- Singlehander ([repository](https://github.com/Antvirf/garmin-singlehander), [Garmin ConnectIQ download](https://apps.garmin.com/en-US/apps/9c35633f-bea1-4bbd-8063-73f586e6ca0e)
 
 ## GitHub contributions
 
